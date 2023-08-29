@@ -63,6 +63,7 @@ Devices:
 ```
 *If the adapter is showing as* `hci1` *you will need to edit the* `dev_id` *variable in the scripts to match*
 To update all scripts to hci1, CD to the scripts folder and run the following bash one liner
+
 `find ./ -name "*.py" -exec sed -i 's/dev_id = 0/dev_id = 1/g' {} +`
 
 # Examples
