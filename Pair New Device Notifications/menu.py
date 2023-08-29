@@ -10,7 +10,7 @@ if script_name in python_files:
     python_files.remove(script_name)
 
 # Ensure there are no more than 60 python files
-if len(python_files) > 10:
+if len(python_files) > 60:
     print("There are more than 60 Python scripts in the directory.")
     exit(1)
 
