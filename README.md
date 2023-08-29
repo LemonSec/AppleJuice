@@ -44,7 +44,7 @@ The pybluez library is broken on Github and needs to be installed manually
   - pycrypto is not maintained but you can install pycryptodome and it will work `pip install pycryptodome`
 
 **Install Requirements**\
-`sudo pip install -r requirements.txt'
+'sudo pip install -r requirements.txt'
 
 **To Run Scripts Without Sudo**\
 To be able to run without sudo, you need to set the capabilities of the python binary to allow it to access raw sockets. This is done with the following command:
