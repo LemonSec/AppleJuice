@@ -33,7 +33,7 @@ With the Raspberry Pi and long range Bluetooth adapter, I'm able to get 20+ feet
 Please follow in this exact order or you might run into issues with bluetooth dependencies.
 
 **Clone the Main Repo**\
-`git clone https://github.com/ECTO-1A/AppleJuice.git && cd ./AppleJuice`
+`git clone https://github.com/LemonSec/AppleJuice.git && cd ./AppleJuice`
 
 **Install dependancies**\
 `sudo apt update && sudo apt install -y bluez libpcap-dev libev-dev libnl-3-dev libnl-genl-3-dev libnl-route-3-dev cmake libbluetooth-dev`
