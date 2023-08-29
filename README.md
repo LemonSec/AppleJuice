@@ -67,6 +67,9 @@ To update all scripts to hci1, CD to the scripts folder and run the following ba
 `find ./ -name "*.py" -exec sed -i 's/dev_id = 0/dev_id = 1/g' {} +`
 
 # Examples
+For a list of available scripts run `python menu.py` and select the number for the script you'd like to execute.
+
+![menu](https://github.com/LemonSec/AppleJuice/assets/33465511/9c526633-ae74-4ffd-903e-a6448b5749f5)
 
 **beatssolopro.py**
 
