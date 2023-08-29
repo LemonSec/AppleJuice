@@ -88,6 +88,8 @@ Model: Airpods Max
 # Credit
 
 Credit to:
+-The original author of the repo. I just forked it and added some quality of life updates for myself
+https://github.com/ECTO-1A/AppleJuice
 - [FuriousMAC](https://github.com/furiousMAC/continuity) and [Hexway](https://github.com/hexway/apple_bleee) for all the prior research on Apple BLE, Continuity, and building the Wireshark disector.
 - [Jae Bochs](https://infosec.exchange/@jb0x168/110879394826675242) for [exposing this to me at DEF CON 31](https://techcrunch.com/2023/08/14/researcher-says-they-were-behind-iphone-popups-at-def-con/) which made me jump into learning about BLE.
 - Guillaume Celosia and Mathieu Cunche for reverse engineering Proximity Pairing 
